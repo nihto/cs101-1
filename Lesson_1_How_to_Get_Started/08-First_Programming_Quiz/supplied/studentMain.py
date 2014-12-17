@@ -6,3 +6,4 @@
 # Click the "Run" button below to try running your code and see the output,
 # and click "Submit" to submit your answer.
 
+print 7 * 7 * 24 * 60 
